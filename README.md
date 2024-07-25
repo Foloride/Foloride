@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Foloride
+- 👋 Hi, I’m Mark
 - 🌱 I work with C# and .NET Technologies most of the time.
 - 📫 How to reach me: mail on markmolnar77@gmail.com
